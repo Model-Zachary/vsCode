@@ -148,3 +148,5 @@ git config --global credential.helper wincred
 
 本文的大部分内容都能从官方的文档上找到，不过中文很多教程没有解决连接远程
 服务的问题，所以特地做了说明，希望对各位有所帮助。
+最后，本篇文章作为实验内容，同步到github的地址为：
+[VS Code 集成git](https://github.com/xuanhun/vscode/blob/master/Visual%20Studio%20Code%20%E4%BD%BF%E7%94%A8Git%E8%BF%9B%E8%A1%8C%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.md)
