@@ -1,2 +1,2 @@
-# vscode
-vscode相关教程
+# vsCode
+vsCode使用教程
